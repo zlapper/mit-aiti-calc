@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calc AITI</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="add_button">+</string>
+    <string name="subtract_button">−</string>
+    <string name="multiply_button">×</string>
+    <string name="divide_button">÷</string>
+    <string name="equals_button">=</string>
+    <string name="decimal_button">.</string>
+
+</resources>
